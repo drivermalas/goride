@@ -1,4 +1,4 @@
-## <center>TUTORIAL REGISTRASI & INSTALASI TERMUX
+# <center>TUTORIAL REGISTRASI & INSTALASI TERMUX
 
 ✓ Download Termux Diplaystore
 
