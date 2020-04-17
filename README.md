@@ -26,15 +26,15 @@
 
     $php food.php lalu enter [ Tunggu Sampai Membuka Tampilan Applikasi ]
 
-    $Masukan User ID : Ketik User Yang Sudah Di Registrasi Lalu Enter
+    ✓ Masukan User ID : Ketik User Yang Sudah Di Registrasi Lalu Enter
 
-    $Masukan Nama Anda : Ketik Nama Anda Lalu Enter
+    ✓ Masukan Nama Anda : Ketik Nama Anda Lalu Enter
 
-    $Masukan Nomer Hp : Masukan Nomer Handphone ( 08XXX ) Lalu Enter
+    ✓ Masukan Nomer Hp : Masukan Nomer Handphone ( 08XXX ) Lalu Enter
 
-    $Masukan Kode OTP : Masukan Kode OTP Dari SMS Lalu Enter
+    ✓ Masukan Kode OTP : Masukan Kode OTP Dari SMS Lalu Enter
 
-    $Tunggu Redeem Semua Voucher Yang Tersedia
+    ✓ Tunggu Redeem Semua Voucher Yang Tersedia
 
 
 # Selamat Anda Sudah Menggunakan Dengan Benar Applikasi Termux Dengan Scrip Zy Flasher
