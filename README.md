@@ -1,4 +1,4 @@
-# TUTORIAL REGISTRASI & INSTALASI TERMUX
+## <center>TUTORIAL REGISTRASI & INSTALASI TERMUX
 
 ✓ Download Termux Diplaystore
 
@@ -37,6 +37,6 @@
     ✓ Tunggu Redeem Semua Voucher Yang Tersedia
 
 
-# Selamat Anda Sudah Menggunakan Dengan Benar Applikasi Termux Dengan Scrip Zy Flasher
+### Selamat Anda Sudah Menggunakan Dengan Benar Applikasi Termux Dengan Scrip Zy Flasher
 
-# Untuk Registrasi Bisa Hubungi Admin
+# <center>Untuk Registrasi Bisa Hubungi Admin
