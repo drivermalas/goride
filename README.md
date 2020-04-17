@@ -1,4 +1,4 @@
-# Tutorial Termux Pemula
+# TUTORIAL REGISTRASI & INSTALASI TERMUX
 
 ✓ Download Termux Diplaystore
 
