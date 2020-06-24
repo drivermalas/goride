@@ -7,11 +7,11 @@ $header[] = "User-Agent: okhttp/3.10.0";
 $header[] = "Accept: application/json";
 $header[] = "Accept-Language: id-ID";
 $header[] = "Content-Type: application/json; charset=UTF-8";
-$header[] = "X-AppVersion: 3.30.2";
+$header[] = "X-AppVersion: 3.55.4";
 $header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
 $header[] = "Connection: keep-alive";
 $header[] = "X-User-Locale: id_ID";
-$header[] = "X-Location: -6.917464,107.619122";
+$header[] = "X-Location: -6.870168,107.619122";
 $header[] = "X-Location-Accuracy: 3.0";
 if ($pin):
 $header[] = "pin: $pin";
@@ -56,7 +56,7 @@ function save($filename, $content)
 function nama()
     {
     $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, "http://ninjaname.horseridersupply.com/indonesian_name.php");
+    curl_setopt($ch, CURLOPT_URL, "http://ninjaname.horseridersupply.com/african_name.php");
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
